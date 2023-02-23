@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidSampleLinearRelativeLayout01</string>
+    <string name="app_logo">Main Application Logo</string>
+    <string name="user_name">Username</string>
+    <string name="user_pw">Password</string>
+    <string name="login_help1">Forgot your login details?</string>
+    <string name="login_help2"> Get help signing in.</string>
+    <string name="divider_text">OR</string>
+    <string name="login_into_facebook">Log in with Facebook</string>
+    <string name="sign_up">Don\'t have an account? Sign Up.</string>
+    <string name="log_in">Log In</string>
+    <string name="todo">TODO</string>
+</resources>
